@@ -5,7 +5,8 @@
             if(nums[i]!=temp){
                 temp=nums[i];
                 nums[j]=temp;
-                j++;}
+                j++;
+            }
         }
         
     return j;}
