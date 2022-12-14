@@ -18,8 +18,8 @@ public:
     if(s=='M')
         gg=1000;
 return gg;
-}
     
+    }
     
     int romanToInt(string s) {
         int n=s.length();
