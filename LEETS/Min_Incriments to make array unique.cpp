@@ -8,8 +8,6 @@ long long int minIncrements(vector<int> arr, int N) {
                 ans=ans+temp;
                 arr[i]=arr[i-1] +1;
             }
-                //cout<<ans<<"->";
-            
             
         }
         
