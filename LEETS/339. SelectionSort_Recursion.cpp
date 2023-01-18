@@ -5,8 +5,7 @@ int sort(int arr[],int x){
     }
     int temp=0;
     for (int i = 0; i<x; i++)
-    {    
-         
+    {      
         if(arr[i]<arr[temp]){
             temp=i;}
     }
