@@ -9,7 +9,7 @@ long long int minIncrements(vector<int> arr, int N) {
                 arr[i]=arr[i-1] +1;
             }
             
-        }
+      }
         
         
     return ans;}
