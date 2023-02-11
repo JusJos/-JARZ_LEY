@@ -6,4 +6,5 @@ int convertFive(int n)
             n+=5*pow(10,i);}
             k=k/10;
         i++;}
-    return n;}
+    return n;
+    }
