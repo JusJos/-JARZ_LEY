@@ -11,4 +11,4 @@ void zigZag(int arr[], int n) {
             }
                 flag=!flag;
         }
-    }
+   }
