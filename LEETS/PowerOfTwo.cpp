@@ -21,7 +21,6 @@ bool isPowerofTwo(long long n){
         else{
             return false;
         }
-        
  
     }
 
