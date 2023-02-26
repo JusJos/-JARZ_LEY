@@ -21,6 +21,4 @@ int search(int A[], int l, int h, int key){
                 }else
                     h=mid-1;
             }
-                
-                
             }
