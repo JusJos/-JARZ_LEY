@@ -20,5 +20,4 @@ int search(int A[], int l, int h, int key){
                     l=mid+1;
                 }else
                     h=mid-1;
-            }
-            }
+            }}
