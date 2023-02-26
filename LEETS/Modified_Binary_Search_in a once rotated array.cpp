@@ -19,5 +19,4 @@ int search(int A[], int l, int h, int key){
                 if(key>A[mid]&&key<=A[h]){
                     l=mid+1;
                 }else
-                    h=mid-1;
-            }}
+                    h=mid-1; }}
