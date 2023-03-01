@@ -21,7 +21,7 @@ bool isPowerofTwo(long long n){
         else{
             return false;
         }
-    }
+        }
 // Time Complexity -> O(1)
 bool isPowerofTwo(long long n){
  return (n != 0) && ((n & (n - 1)) == 0);   
