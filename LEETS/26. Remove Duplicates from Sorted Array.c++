@@ -6,7 +6,6 @@
                 temp=nums[i];
                 nums[j]=temp;
                 j++;
-            }
-        }
+            }}
         
     return j;}
