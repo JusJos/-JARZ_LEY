@@ -7,5 +7,4 @@
                 nums[j]=temp;
                 j++;
             }}
-        
     return j;}
