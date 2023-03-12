@@ -9,6 +9,6 @@ void zigZag(int arr[], int n) {
             }else if(arr[i-1]>arr[i]){
                 swap(arr[i-1],arr[i]);
             }
-                flag=!flag;
+                flag= !flag;
         }
    }
