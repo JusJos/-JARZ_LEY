@@ -15,5 +15,5 @@ string mergeAlternately(string word1, string word2) {
                 ans+=word2[j++];
             }
         }
-        
-    return ans;}
+
+    return ans; }
