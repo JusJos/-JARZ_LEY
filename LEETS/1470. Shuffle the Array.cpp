@@ -9,4 +9,5 @@ vector<int> shuffle(vector<int>& nums, int n) {
     
         j-=2;
     }
-    return nums;}
+    return nums;
+}
