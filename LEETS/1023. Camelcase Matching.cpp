@@ -10,6 +10,7 @@
         return i == a.length(); }
 
     
+    
     vector<bool> camelMatch(vector<string>& queries, string pattern) {
         vector<bool> result;
         for (string& q : queries) {
