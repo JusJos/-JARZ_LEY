@@ -15,6 +15,4 @@ int sort(int arr[],int x){
     
 
 
-    
-
 }
