@@ -1,5 +1,4 @@
 class Solution {
-    
 public:
     int function(char s){
         int gg;
